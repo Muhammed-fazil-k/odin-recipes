@@ -1,2 +1,4 @@
 # odin-recipes
-Recipe page of various foods using html
+Recipe page of various foods 
+
+Technology- HTML
